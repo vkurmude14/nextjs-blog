@@ -15,7 +15,7 @@ export default function Home() {
        
         <div className={styles.imagewrap}>
           {/* <Image className={styles.myImg} src="/homeimg.jpg" width={345.6} height={440.8}></Image> */}
-          <Image src="/homeimg.jpg" alt="description of image" className={styles.myImg} width={306} height={204} />
+          <Image src="/img.jpg" alt="description of image" className={styles.myImg} width={306} height={204} />
         </div>
         <h2 className={styles.title}>
           First Project with Next.JS
