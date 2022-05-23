@@ -1,0 +1,7 @@
+{
+    "title": "How to learn Flask",
+    "Content":"<html>\r\n<p><img alt=\"Flask Tutorial\" src=\"https:\/\/www.tutorialspoint.com\/flask\/images\/flask.jpg\" \/><\/p>\r\n\r\n<h1>Flask Tutorial<\/h1>\r\n\r\n<p>&nbsp;PDF Version&nbsp;&nbsp;Quick Guide&nbsp;&nbsp;Resources&nbsp;&nbsp;Job Search&nbsp;&nbsp;Discussion<\/p>\r\n\r\n<p>Flask is a web application framework written in Python. Armin Ronacher, who leads an international group of Python enthusiasts named Pocco, develops it. Flask is based on Werkzeug WSGI toolkit and Jinja2 template engine. Both are Pocco projects.<\/p>\r\n\r\n<h1>Audience<\/h1>\r\n\r\n<p>This tutorial has been prepared for anyone who has a basic knowledge of Python and has an urge to develop websites. After completing this tutorial, you will find yourself at a moderate level of expertise in developing websites using Flask.<\/p>\r\n\r\n<h1>Prerequisites<\/h1>\r\n\r\n<p>Before you start proceeding with this tutorial, we are assuming that you have hands-on experience on HTML and Python. If you are not well aware of these concepts, then we will suggest you to go through our short tutorials on HTML and Python.<\/p>\r\n<\/html>",
+    "Author":"Vinit Kurmude",
+    "metadesc":"Click above to know how to learn flask ",
+    "slug":"how-to-learn-flask"
+}
